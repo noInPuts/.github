@@ -1,9 +1,19 @@
-# Semester 1 Exam Group - [Organization Name]
+# Semester 1 Exam Group - noInPuts  
 
-Welcome to the GitHub organization for our semester 1 exam group. This organization houses collaborative work, resources, and materials related to our exam preparations.
+Welcome to the GitHub organization for our semester 1 exam group. This organization holds repostiories for the semester 1 exams for System Integration, Development of Large Systems and Software Testing. This readme file will have an overview over our complete system. The individuel repository, will dive deeper into their respective services.
 
-## Team Members
-- Benjamin (GitHub: [benjamin-username](link))
-- Louise (GitHub: [louise-username](link))
-- Line (GitHub: [line-username](link))
-- Jeffrey (GitHub: [jeffrey-username](link))
+## Group Members
+- Benjamin - CPH-BS202  
+- Line - CPH-LW146 
+- Louise - CPH-LE115
+- Jeffrey - CPH-JO208
+
+## Assignment
+We have been assigned to deliver a food and delivery system called MTOGO using a Microservice architecture.
+
+## Services
+Services included in our system consist of:
+- Auth Service
+- User Service
+- Restaurant Service
+- Integration Service
