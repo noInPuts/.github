@@ -17,3 +17,4 @@ Services included in our system consist of:
 - User Service
 - Restaurant Service
 - Integration Service
+- Camunda Service (Camunda engine)
