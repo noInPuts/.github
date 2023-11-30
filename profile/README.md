@@ -16,5 +16,5 @@ Services included in our system consist of:
 - Auth Service
 - User Service
 - Restaurant Service
-- Integration Service
+- Camel Service (Integration service using Apache Camel)
 - Camunda Service (Camunda engine)
