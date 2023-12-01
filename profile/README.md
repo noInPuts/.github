@@ -18,3 +18,4 @@ Services included in our system consist of:
 - Restaurant Service
 - Camel Service (Integration service using Apache Camel)
 - Camunda Service (Camunda engine)
+- Order Service
