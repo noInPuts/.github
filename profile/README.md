@@ -12,10 +12,14 @@ Welcome to the GitHub organization for our semester 1 exam group. This organizat
 We have been assigned to deliver a food and delivery system called MTOGO using a Microservice architecture.
 
 ## Services
-Services included in our system consist of:
+Services developed included in our system consist of:
 - Auth Service
 - User Service
 - Restaurant Service
 - Camel Service (Integration service using Apache Camel)
 - Camunda Service (Camunda engine)
 - Order Service
+
+Services not developed included in this project:
+- RabbitMQ Server
+- Apache Kafka Server (bitnami image with Kraft)
