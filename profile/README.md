@@ -23,3 +23,4 @@ Services developed included in our system consist of:
 Services not developed included in this project:
 - RabbitMQ Server
 - Apache Kafka Server (bitnami image with Kraft)
+- Email service (Legacy system)
