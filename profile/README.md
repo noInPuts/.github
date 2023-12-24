@@ -6,7 +6,6 @@ Welcome to the GitHub organization for our semester 1 exam group. This organizat
 - Benjamin - CPH-BS202  
 - Line - CPH-LW146 
 - Louise - CPH-LE115
-- Jeffrey - CPH-JO208
 
 ## Assignment
 We have been assigned to deliver a food and delivery system called MTOGO using a Microservice architecture.
