@@ -23,3 +23,7 @@ Services not developed included in this project:
 - RabbitMQ Server
 - Apache Kafka Server (bitnami image with Kraft)
 - Email service (Legacy system)
+
+## System diagram
+![System diagram](https://raw.githubusercontent.com/noInPuts/.github/main/profile/system_diagram.png)
+
