@@ -2,6 +2,8 @@
 
 Welcome to the GitHub organization for our semester 1 exam group. This organization holds repostiories for the semester 1 exams for System Integration, Development of Large Systems and Software Testing. This readme file will have an overview over our complete system. The individuel repository, will dive deeper into their respective services.
 
+A demo site has been created on https://mtogo.live
+
 ## Group Members
 - Benjamin - CPH-BS202  
 - Line - CPH-LW146 
